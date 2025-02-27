@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+header{
+    background-image: url(./assets/images/header.img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav .nav_top .logo {
+    background-image: url(./assets/images/nav.logo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
